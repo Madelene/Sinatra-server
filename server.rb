@@ -8,3 +8,5 @@ end
 get '/sinatra' do
   "Hello world!"
 end
+
+#you technically don't need anything after the "require 'sinatra'" part in this file
